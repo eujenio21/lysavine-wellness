@@ -1,0 +1,15 @@
+{
+  "name": "Lysavine Wellness",
+  "short_name": "Lysavine",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a1f44",
+  "theme_color": "#0a1f44",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/DRnMbvk.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
